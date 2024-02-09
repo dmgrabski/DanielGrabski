@@ -15,7 +15,7 @@ I am trying to become a Frontend Developer
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mrbabet&show_icons=true&locale=en&theme=transparent" alt="danielgrabski" />
 </span>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbabet&label=Profile%20views&color=0e75b6&style=flat" alt="mrbabet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbabet&label=Profile%20views&color=0e75b6&style=flat" alt="danielgrabski" /> </p>
 
 <!---
 Mrbabet/Mrbabet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
