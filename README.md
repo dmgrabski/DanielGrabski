@@ -12,7 +12,8 @@ I am trying to become a Frontend Developer
 
 ## My stats
 <span>
-<img height="150px" src="![dmgrabski's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmgrabski&show_icons=true&locale=en&theme=transparent)
+<img height="150px" src="![dmgrabski's GitHub stats](![dmgrabski's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmgrabski&show_icons=true&locale=en&theme=transparent)
+)
 " alt="danielgrabski" />
 </span>
 
